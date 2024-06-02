@@ -161,6 +161,7 @@ cython_debug/
 
 imgs/
 datasets/
-src_standardization.py
+*.py
+*.sql
 
 
