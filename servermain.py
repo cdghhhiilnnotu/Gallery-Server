@@ -21,6 +21,6 @@ def get_images():
 @app.route('/audios', methods=['GET'])
 def get_audios():
     return jsonify(json_db['audios'])
-
+ 
 if __name__ == "__main__":
     app.run(host='0.0.0.0', port=5000, debug=True)
