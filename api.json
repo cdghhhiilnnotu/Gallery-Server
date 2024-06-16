@@ -7,7 +7,7 @@
             "upload_date": "2024-01-01 00:00:00.0000000 +00:00",
             "download_count": 0,
             "audio_url": "src/audios/a0000000000.mp3",
-            "theme_url": "src/audios/themes/a0000000000.jpeg",
+            "theme_url": "src/audios/themes/a0000000000.png",
             "audio_description": "Description for Audio 0"
         },
         {
@@ -17,7 +17,7 @@
             "upload_date": "2024-01-01 00:00:00.0000000 +00:00",
             "download_count": 0,
             "audio_url": "src/audios/a0000000001.mp3",
-            "theme_url": "src/audios/themes/a0000000001.jpeg",
+            "theme_url": "src/audios/themes/a0000000001.png",
             "audio_description": "Description for Audio 1"
         },
         {
@@ -27,7 +27,7 @@
             "upload_date": "2024-01-01 00:00:00.0000000 +00:00",
             "download_count": 0,
             "audio_url": "src/audios/a0000000002.mp3",
-            "theme_url": "src/audios/themes/a0000000002.jpeg",
+            "theme_url": "src/audios/themes/a0000000002.png",
             "audio_description": "Description for Audio 2"
         },
         {
@@ -37,7 +37,7 @@
             "upload_date": "2024-01-01 00:00:00.0000000 +00:00",
             "download_count": 0,
             "audio_url": "src/audios/a0000000003.mp3",
-            "theme_url": "src/audios/themes/a0000000003.jpeg",
+            "theme_url": "src/audios/themes/a0000000003.png",
             "audio_description": "Description for Audio 3"
         },
         {
@@ -47,7 +47,7 @@
             "upload_date": "2024-01-01 00:00:00.0000000 +00:00",
             "download_count": 0,
             "audio_url": "src/audios/a0000000004.mp3",
-            "theme_url": "src/audios/themes/a0000000004.jpeg",
+            "theme_url": "src/audios/themes/a0000000004.png",
             "audio_description": "Description for Audio 4"
         },
         {
@@ -57,7 +57,7 @@
             "upload_date": "2024-01-01 00:00:00.0000000 +00:00",
             "download_count": 0,
             "audio_url": "src/audios/a0000000005.mp3",
-            "theme_url": "src/audios/themes/a0000000005.jpeg",
+            "theme_url": "src/audios/themes/a0000000005.png",
             "audio_description": "Description for Audio 5"
         },
         {
@@ -67,7 +67,7 @@
             "upload_date": "2024-01-01 00:00:00.0000000 +00:00",
             "download_count": 0,
             "audio_url": "src/audios/a0000000006.mp3",
-            "theme_url": "src/audios/themes/a0000000006.jpeg",
+            "theme_url": "src/audios/themes/a0000000006.png",
             "audio_description": "Description for Audio 6"
         },
         {
@@ -77,7 +77,7 @@
             "upload_date": "2024-01-01 00:00:00.0000000 +00:00",
             "download_count": 0,
             "audio_url": "src/audios/a0000000007.mp3",
-            "theme_url": "src/audios/themes/a0000000007.jpeg",
+            "theme_url": "src/audios/themes/a0000000007.png",
             "audio_description": "Description for Audio 7"
         },
         {
@@ -87,7 +87,7 @@
             "upload_date": "2024-01-01 00:00:00.0000000 +00:00",
             "download_count": 0,
             "audio_url": "src/audios/a0000000008.mp3",
-            "theme_url": "src/audios/themes/a0000000008.jpeg",
+            "theme_url": "src/audios/themes/a0000000008.png",
             "audio_description": "Description for Audio 8"
         },
         {
@@ -97,7 +97,7 @@
             "upload_date": "2024-01-01 00:00:00.0000000 +00:00",
             "download_count": 0,
             "audio_url": "src/audios/a0000000009.mp3",
-            "theme_url": "src/audios/themes/a0000000009.jpeg",
+            "theme_url": "src/audios/themes/a0000000009.png",
             "audio_description": "Description for Audio 9"
         },
         {
@@ -107,7 +107,7 @@
             "upload_date": "2024-01-01 00:00:00.0000000 +00:00",
             "download_count": 0,
             "audio_url": "src/audios/a0000000010.mp3",
-            "theme_url": "src/audios/themes/a0000000010.jpeg",
+            "theme_url": "src/audios/themes/a0000000010.png",
             "audio_description": "Description for Audio 10"
         },
         {
@@ -117,7 +117,7 @@
             "upload_date": "2024-01-01 00:00:00.0000000 +00:00",
             "download_count": 0,
             "audio_url": "src/audios/a0000000011.mp3",
-            "theme_url": "src/audios/themes/a0000000011.jpeg",
+            "theme_url": "src/audios/themes/a0000000011.png",
             "audio_description": "Description for Audio 11"
         },
         {
@@ -127,7 +127,7 @@
             "upload_date": "2024-01-01 00:00:00.0000000 +00:00",
             "download_count": 0,
             "audio_url": "src/audios/a0000000012.mp3",
-            "theme_url": "src/audios/themes/a0000000012.jpeg",
+            "theme_url": "src/audios/themes/a0000000012.png",
             "audio_description": "Description for Audio 12"
         },
         {
@@ -137,7 +137,7 @@
             "upload_date": "2024-01-01 00:00:00.0000000 +00:00",
             "download_count": 0,
             "audio_url": "src/audios/a0000000013.mp3",
-            "theme_url": "src/audios/themes/a0000000013.jpeg",
+            "theme_url": "src/audios/themes/a0000000013.png",
             "audio_description": "Description for Audio 13"
         },
         {
@@ -147,7 +147,7 @@
             "upload_date": "2024-01-01 00:00:00.0000000 +00:00",
             "download_count": 0,
             "audio_url": "src/audios/a0000000014.mp3",
-            "theme_url": "src/audios/themes/a0000000014.jpeg",
+            "theme_url": "src/audios/themes/a0000000014.png",
             "audio_description": "Description for Audio 14"
         },
         {
@@ -157,7 +157,7 @@
             "upload_date": "2024-01-01 00:00:00.0000000 +00:00",
             "download_count": 0,
             "audio_url": "src/audios/a0000000015.mp3",
-            "theme_url": "src/audios/themes/a0000000015.jpeg",
+            "theme_url": "src/audios/themes/a0000000015.png",
             "audio_description": "Description for Audio 15"
         }
     ],
