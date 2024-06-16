@@ -1,7 +1,7 @@
 import os
 
-src_name = 'images'
-src_dir = f'src\\{src_name}'
+src_name = 'audios'
+src_dir = f'src\\{src_name}\\themes'
 
 for i, video_file in enumerate(os.listdir(src_dir)):
     if os.path.isfile(os.path.join(src_dir,video_file)):
