@@ -11,4 +11,3 @@ def compress_image_to_jpeg(input_image_path, output_image_path, quality=85):
 
 # Example usage:
 compress_image_to_jpeg('src\images\i0000000012.png', 'src\images\i0000000012.png', quality=1)
-compress_image_to_jpeg('src\images\i0000000107.jpg', 'src\images\i0000000107.jpg', quality=80)
