@@ -283,16 +283,6 @@
             "image_description": "Description for Image 11"
         },
         {
-            "image_id": "i0000000012",
-            "image_name": "images 12",
-            "view_count": 0,
-            "upload_date": "2024-01-01 00:00:00.0000000 +00:00",
-            "download_count": 0,
-            "image_url": "src/images/i0000000012.png",
-            "theme_url": "src/images/i0000000012.png",
-            "image_description": "Description for Image 12"
-        },
-        {
             "image_id": "i0000000013",
             "image_name": "images 13",
             "view_count": 0,
