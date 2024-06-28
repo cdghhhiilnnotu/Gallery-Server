@@ -1,5 +1,5 @@
 import pyodbc, json
-from mutils import *
+from helpers.mutils import *
 
 class MultimediaDB:
 
@@ -37,7 +37,7 @@ class MultimediaDB:
         json_object = json.dumps(db_json, indent=4)
  
         # Writing to sample.json
-        with open("api.json", "w") as outfile:
+        with open("api1.json", "w") as outfile:
             outfile.write(json_object)
         return db_json
 
